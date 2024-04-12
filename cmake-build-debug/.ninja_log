@@ -1,0 +1,16 @@
+# ninja log v5
+6	140	7345897260489820	CMakeFiles/learnc.dir/main.c.obj	150a17295336d3ca
+5	684	7345961363798804	CMakeFiles/learnc.dir/session7/vidu7-7.c.obj	e7ca70b27d35573d
+4	168	7345974102364694	CMakeFiles/learnc.dir/session7/upper-lowercase.c.obj	b39b2d5cca7e51c1
+4	141	7345990134390098	CMakeFiles/learnc.dir/session7/atm-ifelse.c.obj	b508132fe0655c0e
+141	408	7345990136898557	learnc.exe	676b049cd1a99324
+12	195	7345929717236715	CMakeFiles/learnc.dir/session7/vidu7-6.c.obj	e155296c0212922e
+5	249	7345914349511857	CMakeFiles/learnc.dir/session7/discounted-price.c.obj	3ca23b40e5d1d2be
+5	201	7345925987372920	CMakeFiles/learnc.dir/session7/switch-case.c.obj	369b97c4a2b4f388
+12	230	7345971019838689	CMakeFiles/learnc.dir/session7/example2.c.obj	4fd7f2adc073596e
+14	686	7345961364078635	CMakeFiles/learnc.dir/session7/leapyear.c.obj	30ef2a79a49205a1
+4	693	7345986153388970	CMakeFiles/learnc.dir/session7/lower-to-uppercase.c.obj	e64774bfdf4bdeca
+17	2131	7345990014331002	CMakeFiles/learnc.dir/session7/atm-basic.c.obj	741c40605ecb4aa8
+4	233	7345995116017284	CMakeFiles/learnc.dir/session7/atm-ifelse.c.obj	b508132fe0655c0e
+10	1182	7345995125509968	CMakeFiles/learnc.dir/session7/bmi.c.obj	1f34865d0a10686
+1182	1379	7345995127398790	learnc.exe	388e1b7a57760fa6

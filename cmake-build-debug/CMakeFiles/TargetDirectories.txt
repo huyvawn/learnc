@@ -1,0 +1,3 @@
+C:/Users/vanmi/CLionProjects/learnc/cmake-build-debug/CMakeFiles/learnc.dir
+C:/Users/vanmi/CLionProjects/learnc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vanmi/CLionProjects/learnc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

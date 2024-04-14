@@ -1,6 +1,6 @@
 #include<stdio.h>
-//int bmi(){
-    int main(){
+int bmi(){
+//    int main(){
 float weight, height;
 
 printf("Nhap can nang(kg): ");

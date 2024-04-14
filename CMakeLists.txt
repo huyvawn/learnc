@@ -31,4 +31,15 @@ add_executable(learnc main.c
         session7/atm-basic.c
         session7/atm-ifelse.c
         session7/bmi.c
+        session8/commission.c
+        session8/greater_number.c
+        session8/commission2.c
+        session8/case.c
+        session8/studentScore.c
+        session8/exercise1.c
+        session8/exercise2.c
+        session9/vidu9-2.c
+        session9/vidu9-2.c
+        session9/9-2-evennumber.c
+        session9/9-3.c
 )

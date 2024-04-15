@@ -47,4 +47,6 @@ add_executable(learnc main.c
         lab04/bai2.c
         lab04/bai3.c
         lab04/bai4.c
+        lab04/bai5.c
+        lab04/bai6.c
 )

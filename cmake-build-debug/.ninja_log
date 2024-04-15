@@ -3,7 +3,7 @@
 5	684	7345961363798804	CMakeFiles/learnc.dir/session7/vidu7-7.c.obj	e7ca70b27d35573d
 4	168	7345974102364694	CMakeFiles/learnc.dir/session7/upper-lowercase.c.obj	b39b2d5cca7e51c1
 4	233	7345995116017284	CMakeFiles/learnc.dir/session7/atm-ifelse.c.obj	b508132fe0655c0e
-2008	2201	7348560433525148	learnc.exe	311d4e655c770c40
+184	459	7348585197289498	learnc.exe	8c355d605b768a07
 12	195	7345929717236715	CMakeFiles/learnc.dir/session7/vidu7-6.c.obj	e155296c0212922e
 5	249	7345914349511857	CMakeFiles/learnc.dir/session7/discounted-price.c.obj	3ca23b40e5d1d2be
 5	201	7345925987372920	CMakeFiles/learnc.dir/session7/switch-case.c.obj	369b97c4a2b4f388
@@ -16,7 +16,7 @@
 24	897	7348502493976386	CMakeFiles/learnc.dir/session8/commission.c.obj	219e64f0c5c4e4b4
 45	927	7348502494146269	CMakeFiles/learnc.dir/session8/greater_number.c.obj	5cd5c90607bbb9d6
 912	1215	7348502497204390	CMakeFiles/learnc.dir/session8/commission2.c.obj	bb456d5f8ad1d0d6
-12	2008	7348560431676272	CMakeFiles/learnc.dir/lab04/bai3.c.obj	e03def0d9af76a95
+5	1872	7348567360105635	CMakeFiles/learnc.dir/lab04/bai3.c.obj	e03def0d9af76a95
 927	1389	7348502498937998	CMakeFiles/learnc.dir/session8/exercise2.c.obj	5349726cc32fe1c3
 16	158	7348503731285038	CMakeFiles/learnc.dir/session8/exercise1.c.obj	4d04b5e57777c0c9
 5	130	7348504394288466	CMakeFiles/learnc.dir/session8/studentScore.c.obj	7bfe814e1ec658bf
@@ -26,6 +26,12 @@
 12	253	7348529904354397	CMakeFiles/learnc.dir/session9/orderdrink.c.obj	10dec82277bea048
 4	130	7348556973561662	CMakeFiles/learnc.dir/lab04/bai1.c.obj	8a6d92498072a6cb
 5	145	7348560413047901	CMakeFiles/learnc.dir/lab04/bai2.c.obj	9a0185e5e9a5984f
-5	1872	7348567360105635	CMakeFiles/learnc.dir/lab04/bai3.c.obj	e03def0d9af76a95
-15	2071	7348567362167204	CMakeFiles/learnc.dir/lab04/bai4.c.obj	926b47254946130e
-2072	2275	7348567364135996	learnc.exe	25d98483f1ae0518
+23	213	7348584582669331	CMakeFiles/learnc.dir/lab04/bai4.c.obj	926b47254946130e
+6	183	7348585194581183	CMakeFiles/learnc.dir/lab04/bai5.c.obj	bd390539231bf658
+17	406	7348595741144556	CMakeFiles/learnc.dir/lab04/bai5.c.obj	bd390539231bf658
+7	2154	7348595758761180	CMakeFiles/learnc.dir/lab04/bai6.c.obj	abde0c67453e3d2e
+2155	2356	7348595760670012	learnc.exe	43c23565534dbaca
+7	146	7348596646039753	CMakeFiles/learnc.dir/lab04/bai6.c.obj	abde0c67453e3d2e
+147	513	7348596649637547	learnc.exe	43c23565534dbaca
+7	178	7348597023895169	CMakeFiles/learnc.dir/lab04/bai6.c.obj	abde0c67453e3d2e
+179	560	7348597027622867	learnc.exe	43c23565534dbaca

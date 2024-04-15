@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
 
-//int studentScore(){
-    int main(){
+int studentScore(){
+//    int main(){
 
     float m1, m2, m3, avg;
     printf("Enter your Math score:");

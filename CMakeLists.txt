@@ -42,4 +42,9 @@ add_executable(learnc main.c
         session9/vidu9-2.c
         session9/9-2-evennumber.c
         session9/9-3.c
+        session9/orderdrink.c
+        lab04/bai1.c
+        lab04/bai2.c
+        lab04/bai3.c
+        lab04/bai4.c
 )

@@ -223,6 +223,12 @@ build CMakeFiles/learnc.dir/lab04/bai6.c.obj: C_COMPILER__learnc_unscanned_Debug
   OBJECT_DIR = CMakeFiles\learnc.dir
   OBJECT_FILE_DIR = CMakeFiles\learnc.dir\lab04
 
+build CMakeFiles/learnc.dir/lab04/bai7.c.obj: C_COMPILER__learnc_unscanned_Debug C$:/Users/vanmi/CLionProjects/learnc/lab04/bai7.c || cmake_object_order_depends_target_learnc
+  DEP_FILE = CMakeFiles\learnc.dir\lab04\bai7.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\learnc.dir
+  OBJECT_FILE_DIR = CMakeFiles\learnc.dir\lab04
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target learnc
@@ -231,7 +237,7 @@ build CMakeFiles/learnc.dir/lab04/bai6.c.obj: C_COMPILER__learnc_unscanned_Debug
 #############################################
 # Link the executable learnc.exe
 
-build learnc.exe: C_EXECUTABLE_LINKER__learnc_Debug CMakeFiles/learnc.dir/main.c.obj CMakeFiles/learnc.dir/session7/upper-lowercase.c.obj CMakeFiles/learnc.dir/session7/discounted-price.c.obj CMakeFiles/learnc.dir/session7/switch-case.c.obj CMakeFiles/learnc.dir/session7/vidu7-6.c.obj CMakeFiles/learnc.dir/session7/vidu7-7.c.obj CMakeFiles/learnc.dir/session7/leapyear.c.obj CMakeFiles/learnc.dir/session7/example2.c.obj CMakeFiles/learnc.dir/session7/lower-to-uppercase.c.obj CMakeFiles/learnc.dir/session7/atm-basic.c.obj CMakeFiles/learnc.dir/session7/atm-ifelse.c.obj CMakeFiles/learnc.dir/session7/bmi.c.obj CMakeFiles/learnc.dir/session8/commission.c.obj CMakeFiles/learnc.dir/session8/greater_number.c.obj CMakeFiles/learnc.dir/session8/commission2.c.obj CMakeFiles/learnc.dir/session8/case.c.obj CMakeFiles/learnc.dir/session8/studentScore.c.obj CMakeFiles/learnc.dir/session8/exercise1.c.obj CMakeFiles/learnc.dir/session8/exercise2.c.obj CMakeFiles/learnc.dir/session9/vidu9-2.c.obj CMakeFiles/learnc.dir/session9/9-2-evennumber.c.obj CMakeFiles/learnc.dir/session9/9-3.c.obj CMakeFiles/learnc.dir/session9/orderdrink.c.obj CMakeFiles/learnc.dir/lab04/bai1.c.obj CMakeFiles/learnc.dir/lab04/bai2.c.obj CMakeFiles/learnc.dir/lab04/bai3.c.obj CMakeFiles/learnc.dir/lab04/bai4.c.obj CMakeFiles/learnc.dir/lab04/bai5.c.obj CMakeFiles/learnc.dir/lab04/bai6.c.obj
+build learnc.exe: C_EXECUTABLE_LINKER__learnc_Debug CMakeFiles/learnc.dir/main.c.obj CMakeFiles/learnc.dir/session7/upper-lowercase.c.obj CMakeFiles/learnc.dir/session7/discounted-price.c.obj CMakeFiles/learnc.dir/session7/switch-case.c.obj CMakeFiles/learnc.dir/session7/vidu7-6.c.obj CMakeFiles/learnc.dir/session7/vidu7-7.c.obj CMakeFiles/learnc.dir/session7/leapyear.c.obj CMakeFiles/learnc.dir/session7/example2.c.obj CMakeFiles/learnc.dir/session7/lower-to-uppercase.c.obj CMakeFiles/learnc.dir/session7/atm-basic.c.obj CMakeFiles/learnc.dir/session7/atm-ifelse.c.obj CMakeFiles/learnc.dir/session7/bmi.c.obj CMakeFiles/learnc.dir/session8/commission.c.obj CMakeFiles/learnc.dir/session8/greater_number.c.obj CMakeFiles/learnc.dir/session8/commission2.c.obj CMakeFiles/learnc.dir/session8/case.c.obj CMakeFiles/learnc.dir/session8/studentScore.c.obj CMakeFiles/learnc.dir/session8/exercise1.c.obj CMakeFiles/learnc.dir/session8/exercise2.c.obj CMakeFiles/learnc.dir/session9/vidu9-2.c.obj CMakeFiles/learnc.dir/session9/9-2-evennumber.c.obj CMakeFiles/learnc.dir/session9/9-3.c.obj CMakeFiles/learnc.dir/session9/orderdrink.c.obj CMakeFiles/learnc.dir/lab04/bai1.c.obj CMakeFiles/learnc.dir/lab04/bai2.c.obj CMakeFiles/learnc.dir/lab04/bai3.c.obj CMakeFiles/learnc.dir/lab04/bai4.c.obj CMakeFiles/learnc.dir/lab04/bai5.c.obj CMakeFiles/learnc.dir/lab04/bai6.c.obj CMakeFiles/learnc.dir/lab04/bai7.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\learnc.dir

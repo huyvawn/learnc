@@ -1,7 +1,7 @@
 #include "stdio.h"
 
-//int bai7(){
-int main() {
+int bai7(){
+//int main() {
     int num1, num2;
     printf("Nhap 2 so bat ki:\n");
     scanf("%d %d", &num1, &num2);

@@ -50,4 +50,7 @@ add_executable(learnc main.c
         lab04/bai5.c
         lab04/bai6.c
         lab04/bai7.c
+        session9/vidu-while-loop-2.c
+        session9/vidu-dowhile.c
+        session9/vidu-break.c
 )

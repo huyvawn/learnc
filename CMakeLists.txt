@@ -53,4 +53,10 @@ add_executable(learnc main.c
         session9/vidu-while-loop-2.c
         session9/vidu-dowhile.c
         session9/vidu-break.c
+        session9/chiahet-cho9.c
+        session9/atm2.c
+        session9/some-loopdemos.c
+        session9/coffeeShop.c
+        session9/luckynumber.c
+        session9/averageScore.c
 )

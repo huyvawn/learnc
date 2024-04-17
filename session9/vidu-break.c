@@ -1,7 +1,7 @@
 #include "stdio.h"
-int viduBreak(){
+int viduBreak()
 //    int main ()
-
+{
         int count1, count2;
         for(count1 = 1;count1 <=100; count1++)
         {

@@ -1,0 +1,9 @@
+%02d có nghĩa là để 2 vị trí trên màn hình cho số đó,
+ ví dụ số 3 thì cũng chiếm hai vị trí như số 14
+
+0 có nghĩa là thêm số ko phía trc nếu số đó chỉ chiếm 1 vị trí
+
+nhờ đó, ta có output đẹp như màn hình
+
+nó sẽ tạo ra các hàng cột thẳng nhau (vì cùng chiều rộng,
+ các số đều chiếm 2 vị trí, dù số đó là số có 1 chữ số)

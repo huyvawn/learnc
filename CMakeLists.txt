@@ -66,4 +66,5 @@ add_executable(learnc main.c
         lab05/bai4.c
         lab05/bai5.c
         lab05/bai6.c
+        lab05/bai6-chua.c
 )

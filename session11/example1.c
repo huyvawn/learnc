@@ -1,5 +1,5 @@
 #include "stdio.h"
-int example1(){
+int example11_1(){
 //    int main(){
     int num[5];
     int i;

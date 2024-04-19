@@ -59,7 +59,7 @@ add_executable(learnc main.c
         session9/coffeeShop.c
         session9/luckynumber.c
         session9/averageScore.c
-        session10/example1.c
+        session11/example1.c
         lab05/bai1.c
         lab05/bai2.c
         lab05/bai3.c
@@ -67,4 +67,9 @@ add_executable(learnc main.c
         lab05/bai5.c
         lab05/bai6.c
         lab05/bai6-chua.c
+        session11/example11_2.c
+        session11/example11-3.c
+        session11/example11_4.c
+        session11/example11_5.c
+        session11/example11_6.c
 )

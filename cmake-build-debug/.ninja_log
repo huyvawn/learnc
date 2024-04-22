@@ -3,9 +3,9 @@
 5	684	7345961363798804	CMakeFiles/learnc.dir/session7/vidu7-7.c.obj	e7ca70b27d35573d
 6	191	7350315544625843	CMakeFiles/learnc.dir/session9/coffeeShop.c.obj	efe51c4d2343fd2c
 4	168	7345974102364694	CMakeFiles/learnc.dir/session7/upper-lowercase.c.obj	b39b2d5cca7e51c1
-298	633	7354620388114185	learnc.exe	c71b7d8cec69ed22
-9	297	7354620384766261	CMakeFiles/learnc.dir/session11/tryityourself2.c.obj	af8e0a0ef137ad98
+8	453	7354626667708529	CMakeFiles/learnc.dir/session11/tryityourself2.c.obj	af8e0a0ef137ad98
 4	233	7345995116017284	CMakeFiles/learnc.dir/session7/atm-ifelse.c.obj	b508132fe0655c0e
+155	561	7354638823707705	learnc.exe	e01995e206332478
 8	176	7348602048083481	CMakeFiles/learnc.dir/lab04/bai6.c.obj	abde0c67453e3d2e
 12	195	7345929717236715	CMakeFiles/learnc.dir/session7/vidu7-6.c.obj	e155296c0212922e
 5	201	7345925987372920	CMakeFiles/learnc.dir/session7/switch-case.c.obj	369b97c4a2b4f388
@@ -28,6 +28,7 @@
 927	1389	7348502498937998	CMakeFiles/learnc.dir/session8/exercise2.c.obj	5349726cc32fe1c3
 1069	1330	7354523633737008	CMakeFiles/learnc.dir/session11/example11_6.c.obj	b8a6d0917987e7e8
 16	158	7348503731285038	CMakeFiles/learnc.dir/session8/exercise1.c.obj	4d04b5e57777c0c9
+6	154	7354638819760138	CMakeFiles/learnc.dir/session11/bai-them-mang-2.c.obj	6acce259ce85806b
 5	130	7348504394288466	CMakeFiles/learnc.dir/session8/studentScore.c.obj	7bfe814e1ec658bf
 17	477	7350230458220003	CMakeFiles/learnc.dir/session9/vidu9-2.c.obj	70c6b44d2c0b2188
 32	2468	7350217739267259	CMakeFiles/learnc.dir/lab04/bai7.c.obj	a2ff9131c7750dff
@@ -57,8 +58,11 @@
 21	283	7354603759228981	CMakeFiles/learnc.dir/session11/example11_2.c.obj	77fa5fcd88452711
 7	224	7352047677528685	CMakeFiles/learnc.dir/session11/example11_5.c.obj	bef263db50eb693d
 6	173	7352034535181046	CMakeFiles/learnc.dir/session11/example11_4.c.obj	496f9b1147034af4
-15	430	7354626667488663	CMakeFiles/learnc.dir/session11/bai-them-mang-1.c.obj	1aec8dd3f9c843b2
-8	453	7354626667708529	CMakeFiles/learnc.dir/session11/tryityourself2.c.obj	af8e0a0ef137ad98
-454	2541	7354626688517575	learnc.exe	7c82744bf268ddf2
-10	495	7354627502542056	CMakeFiles/learnc.dir/session11/bai-them-mang-1.c.obj	1aec8dd3f9c843b2
-497	837	7354627505899988	learnc.exe	7c82744bf268ddf2
+5	769	7354635586306709	CMakeFiles/learnc.dir/session11/bai-them-mang-1.c.obj	1aec8dd3f9c843b2
+8	329	7354646161328393	CMakeFiles/learnc.dir/session11/bai-them-mang-2.c.obj	6acce259ce85806b
+16	2130	7354646179328910	CMakeFiles/learnc.dir/session11/bai-them-mang-3.c.obj	92d44a07b2412efd
+2130	2368	7354646181657471	learnc.exe	a78fff2e92071c64
+7	149	7354646642597016	CMakeFiles/learnc.dir/session11/bai-them-mang-3.c.obj	92d44a07b2412efd
+150	596	7354646646964294	learnc.exe	a78fff2e92071c64
+6	313	7354648278775026	CMakeFiles/learnc.dir/session11/bai-them-mang-3.c.obj	92d44a07b2412efd
+314	687	7354648282442767	learnc.exe	a78fff2e92071c64

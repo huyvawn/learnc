@@ -1,6 +1,6 @@
 #include "stdio.h"
-//int tryityourself3(){
-    int main() {
+int tryityourself3(){
+//    int main() {
     int i = 0,j = 0;
     int x[5];
     int temp;

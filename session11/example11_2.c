@@ -1,22 +1,30 @@
 #include "stdio.h"
 int example11_2(){
 //    int main(){
-        int ary[10];
+        int ary[5];
         int i,total,high;
 
-    for (int i = 0; i < 10; ++i) {
+    for (i = 0; i < 5; ++i) {
         printf("\nEnter value %d: ", i+1);
         scanf("%d", &ary[i]);
     }
-        high = ary[i];
+        high = ary[0];
 
-        for (i = 0; i <10; i++) {
+        for (i = 0; i <5; i++) {
             if(ary[i] > high)
                 high = ary[i];
         }
     printf("\nHighest value entered was %d", high);
 
-    for (i = 0, total = 0; i < 10; ++i) {
+        int min = ary[0];
+
+    for (i = 0; i < 5; ++i) {
+        if(ary[i] < min)
+            min= ary[i];
+    }
+    printf("\nLowest value was %d", min);
+
+    for (i = 0, total = 0; i < 5; ++i) {
         total += ary[i];
 
     }

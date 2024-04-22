@@ -73,4 +73,7 @@ add_executable(learnc main.c
         session11/example11_5.c
         session11/example11_6.c
         session11/tryityourself3.c
+        session11/test-trenlop.c
+        session11/tryityourself1.c
+        session11/tryityourself2.c
 )

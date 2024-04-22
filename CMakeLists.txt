@@ -76,4 +76,5 @@ add_executable(learnc main.c
         session11/test-trenlop.c
         session11/tryityourself1.c
         session11/tryityourself2.c
+        session11/bai-them-mang-1.c
 )

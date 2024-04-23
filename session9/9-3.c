@@ -6,6 +6,6 @@ int vidu93(){
     printf("for which a table will be printed: ");
     scanf("%d", &max);
     for (i = 0, j = max; i <= max; i++, j--)
-        printf("\n %d + %d = %d", i,j,i + j);
+        printf("\n %02d + %02d = %02d", i,j,i + j);
     return 0;
 }

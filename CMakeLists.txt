@@ -79,4 +79,5 @@ add_executable(learnc main.c
         session12/viduStudentMarks.c
         session12/addMatrices.c
         session11/bai-them-mang-4.c
+        session11/bai-them-mang-5.c
 )

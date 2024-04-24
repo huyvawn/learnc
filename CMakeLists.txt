@@ -81,4 +81,5 @@ add_executable(learnc main.c
         session11/bai-them-mang-4.c
         session11/bai-them-mang-5.c
         session11/bai-them-mang-6.c
+        session11/bai-them-mang-7.c
 )

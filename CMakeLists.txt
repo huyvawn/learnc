@@ -85,4 +85,9 @@ add_executable(learnc main.c
         session11/bai-them-mang-8.c
         session12/vidu12_trenlop.c
         session11/bai-them-mang-9.c
+        session15/15_baitrenlop.c
+        session15/15_viduskype1.c
+        session15/15_viduskype2.c
+        session15/15_viduskype3.c
+        session15/performOperation.c
 )

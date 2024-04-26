@@ -90,4 +90,10 @@ add_executable(learnc main.c
         session15/15_viduskype2.c
         session15/15_viduskype3.c
         session15/performOperation.c
+        session15/16_square.c
+        session15/16_calculateCircle.c
+        session15/16_atmbasic.c
+        session15/16_calculateGrade.c
+        session15/16_coffeeShop.c
+        session15/16_calculateFactorial.c
 )

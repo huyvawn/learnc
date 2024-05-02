@@ -4,8 +4,8 @@ int say(char confess[]);
 void Break();
 void love();
 
-//int luyenHamBai7(){
-    int main(){
+int luyenHamBai7(){
+//    int main(){
     float height,weight;
     int appearance,funny,smart;
 

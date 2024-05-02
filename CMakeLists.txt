@@ -96,4 +96,13 @@ add_executable(learnc main.c
         session15/16_calculateGrade.c
         session15/16_coffeeShop.c
         session15/16_calculateFactorial.c
+        session15/15_example4.c
+        session15/15_example7.c
+        session15/AreaTriangle.c
+        session15/multiplesOf50.c
+        session15/reverseArray.c
+        session15/indexMin.c
+        session15/simpleCalculator.c
+        session15/calculateRectangle.c
+        session15/ILoveYou.c
 )

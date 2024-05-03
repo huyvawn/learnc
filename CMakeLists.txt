@@ -105,4 +105,11 @@ add_executable(learnc main.c
         session15/simpleCalculator.c
         session15/calculateRectangle.c
         session15/ILoveYou.c
+        session16/hinhchunhat.c
+        session16/tienbanhang.c
+        session16/boiso50.c
+        session16/findmax.c
+        session16/finindexMax.c
+        session17/longestString.c
+        session17/17_tryit1.c
 )

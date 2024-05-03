@@ -1,4 +1,5 @@
 #include "stdio.h"
+#include "string.h"
 int check(float height,float weight,int appearance,int funny,int smart);
 int say(char confess[]);
 void Break();
@@ -44,5 +45,15 @@ int check (float height,float weight,int appearance,int funny,int smart){
             return 0;
     }
 int say(char confess[]){
-
+char arr[50];
+    strcpy(arr, "iloveyou");
+    if(strcmp(arr,confess)==0)
+        return 1;
+    else return 0;
     }
+void Break(){
+    printf("You failed.");
+}
+void love(){
+    printf("Success!");
+}

@@ -17,10 +17,11 @@
         if(isGood == 0)
             printf("\nNo positive numbers.Try again");
     }   while (isGood==0);
+
     for (int i = 0; i < size; ++i) {
         if (arr[i]>0)
             positiveTest= arr[i];
-        break;
+
     }
     positiveMin = positiveTest;
     for (int i = 0; i < size; ++i) {

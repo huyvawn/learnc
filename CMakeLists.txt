@@ -112,5 +112,6 @@ add_executable(learnc main.c
         session16/finindexMax.c
         session17/longestString.c
         session17/17_tryit1.c
-        exam/bai1.c
+        session17/17_try1cach2.c
+        session17/17_tryit2.c
 )

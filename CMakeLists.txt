@@ -114,4 +114,5 @@ add_executable(learnc main.c
         session17/17_tryit1.c
         session17/17_try1cach2.c
         session17/17_tryit2.c
+        exam/bai2.c
 )

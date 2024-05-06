@@ -1,6 +1,6 @@
 #include "stdio.h"
-//int bai1(){
-    int main(){
+int bai1(){
+//    int main(){
     int size,positiveMin,positiveTest=1, isGood = 0;
     printf("\nEnter the number of elements in the array: ");
     scanf("%d",&size);
